@@ -4,4 +4,3 @@ def addition(a,b):
 addition(10,20)
 print("vvce")
 print("mysore")
-print("sahanab")
